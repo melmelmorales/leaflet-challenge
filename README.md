@@ -3,10 +3,14 @@
 Melissa Morales
 
 # Reference Dataset
-[USGS GeoJSON Summary Format](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson)
+[United States Geological Survey (USGS) GeoJSON Summary Format](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson)
 
 # Overview
 
-The assignment involves creating an interactive dashboard to analyze the "Belly Button Biodiversity dataset" using Plotly, a JavaScript data visualization library. JavaScript will be utilized to enhance the interactivity and appeal of the visualizations.
+The United States Geological Survey (USGS) provides essential scientific data on earthquake magnitudes, depths, and locations. 
 
-![Bellybutton Dashboard](Image/BellybuttonDashboard.png)
+A recent analysis examined a global dataset of earthquakes from the past seven days, focusing on those with magnitudes exceeding 2.5. 
+
+To enhance data visualization, an interactive map was developed using JavaScript and the D3 library. Additionally, the non-spatial attributes were investigated through the hierarchical structure of GeoJSON files.
+
+![Earthquake Interactive Map](Images/EarthquakeMap.png)
