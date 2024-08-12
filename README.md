@@ -13,4 +13,4 @@ A recent analysis examined a global dataset of earthquakes from the past seven d
 
 To enhance data visualization, an interactive map was developed using JavaScript and the D3 library. Additionally, the non-spatial attributes were investigated through the hierarchical structure of GeoJSON files.
 
-![Earthquake Interactive Map](Images/EarthquakeMap.png)
+![Earthquake Interactive Map](Leaflet-Part-1/Images/EarthquakeMap.png)
