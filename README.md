@@ -1,6 +1,6 @@
 # Transforming Earthquake Data into Dynamic Insights
 
-Melissa Morales
+Presented by Melissa Morales
 
 # Reference Dataset
 [United States Geological Survey (USGS) GeoJSON Summary Format](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson)
